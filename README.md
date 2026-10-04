@@ -51,6 +51,11 @@ My professional work has included:
 - **Distributed systems** and high-scale backend architecture
 - Building better **developer tools and CLI applications**
 
+### 🔗 Find Me Online
+
+🌐 [Portfolio](YOUR_PORTFOLIO_URL)  
+💼 [LinkedIn](YOUR_LINKEDIN_URL)
+
 ---
 
 > Building things that don't stop at `localhost`.
