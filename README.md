@@ -44,8 +44,6 @@ My professional work has included:
 - Setting up monitoring, dashboards, and alerting
 - Building real-time and IoT-based systems
 
-I also work on private products involving **GPS/IoT tracking** and **fitness & coaching platforms**.
-
 ### 🌱 Currently Exploring
 
 - Advanced **Go** patterns and performance optimization
