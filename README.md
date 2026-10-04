@@ -53,8 +53,8 @@ My professional work has included:
 
 ### 🔗 Find Me Online
 
-🌐 [Portfolio](YOUR_PORTFOLIO_URL)  
-💼 [LinkedIn](YOUR_LINKEDIN_URL)
+🌐 [Portfolio](https://amirhdev.ir/)  
+💼 [LinkedIn](https://www.linkedin.com/in/amirkh8006/)
 
 ---
 
